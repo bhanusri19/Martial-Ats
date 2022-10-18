@@ -1,0 +1,4 @@
+.bg-image {
+    background-image: url("background.jpg");
+    background-size: 100%, 80%;
+}
